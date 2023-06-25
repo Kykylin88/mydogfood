@@ -1,0 +1,72 @@
+[
+    {"name": "Мини палочки",
+        "priсe": "130",
+        "discount": "10",
+        "pictures": "https://4lapy.ru/resize/480x480/upload/iblock/3fc/3fc4c37979cdc3efe83ef034ed341f0d.jpg",
+        "tags": "delcious",
+        "likes": ["1","2","3"],
+        "reviews": [
+            {"rating":5},
+            {"rating":3},
+            {"rating":5},
+            {"rating":4},
+            {"rating":5}
+        ],
+        "_id": "1a",
+        "created_at": "2023-12-02" },
+    { "name": "Косточки с ягненком",
+        "priсe": "168",
+        "discount": "10",
+        "pictures": "https://4lapy.ru/resize/480x480/upload/iblock/a8f/a8f470a852ef85370f953115507d2420.jpg",
+        "tags": "delcious",
+        "likes": ["1","2","3","4","5","6","7","8","9"],
+        "reviews": [
+        {"rating":5},
+        {"rating":3},
+        {"rating":5},
+        {"rating":4},
+        {"rating":5},
+        {"rating":3},
+        {"rating":5},
+        {"rating":4},
+        {"rating":5}
+    
+    
+    ],
+        "_id": "2",
+        "created_at": "2023-12-12"},
+    { "name": "Ошейник от блох и клещей",
+        "priсe": "1034",
+        "discount": "10",
+        "pictures": "https://4lapy.ru/resize/480x480/upload/iblock/c13/c13315ec54c697e1e14084cf6d720cc2.jpg",
+        "tags": "outerwear",
+        "likes": ["1","2","3","4","5","6","7"],
+        "reviews": [
+        {"rating":5},
+        {"rating":3},
+        {"rating":5},
+        {"rating":4},
+        {"rating":5},
+        {"rating":3},
+        {"rating":5},
+        {"rating":4}
+        ],
+        "_id": "3",
+        "created_at": "2023-01-02" },
+    { "name": "Мячик для собак",
+        "priсe": "200",
+        "discount": "0",
+        "pictures": "https://4lapy.ru/resize/480x480/upload/iblock/e7d/e7dd885ae363ca4bb61fc05933c3162a.jpg",
+        "tags": "toys",
+        "likes": ["1","2","3","4","5","6","7"],
+        "reviews": [
+        {"rating":5},
+        {"rating":3},
+        {"rating":5},
+        {"rating":4},
+        {"rating":5}
+    ],
+        "_id": "4",
+        "created_at": "2022-12-02" }
+
+]

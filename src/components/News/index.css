@@ -1,0 +1,23 @@
+.news {
+   border-radius: 1rem;
+   overflow: hidden; 
+background-color: silver;
+}
+.news__img {
+    
+    width: 100%;
+   display: block;
+
+}
+.news__content {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 1rem;
+    padding: 2rem;
+}
+.news__title{
+    font-weight: 600;
+    height: calc(6rem * 1.2);
+    overflow: hidden;
+}
